@@ -1,3 +1,7 @@
+Aim: implement re module in python
+
+Algorithm
+
 Step 1: Start the program.
 
 Step 2: Import the re module to use regular expressions.
